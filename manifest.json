@@ -1,0 +1,9 @@
+{
+  "name": "Live Tracker",
+  "short_name": "LiveTracker",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0B0E11",
+  "theme_color": "#0B0E11",
+  "description": "Track daily work streaks with an animated momentum graph, calendar, and reminders."
+}
